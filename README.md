@@ -55,9 +55,20 @@ Gemini: [Gemini's contextualized response with examples]
 You: quit
 ```
 
+
+## ScreenShots
+
+### With default params
+<img width="686" alt="Screenshot 2025-05-28 at 5 27 38 PM" src="https://github.com/user-attachments/assets/e73524ca-6c44-46ad-a330-b287922a9f05" />
+
+### With Custom params
+<img width="1081" alt="Screenshot 2025-05-28 at 5 33 25 PM" src="https://github.com/user-attachments/assets/91a75639-3609-4042-9af1-ed2f8fa55d4d" />
+<img width="1092" alt="Screenshot 2025-05-28 at 5 33 46 PM" src="https://github.com/user-attachments/assets/3f9f7884-7af5-427b-8dcc-f8afce963ad4" />
+
+
 ## Notes
 
-- The chatbot uses the 'gemini-1.0-pro' model
+- The chatbot uses the 'gemini-1.5-flash' model
 - Conversation history is maintained throughout the session
 - API key is loaded securely from the .env file
 - Error handling is implemented for API issues
